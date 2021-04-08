@@ -4,9 +4,7 @@ Various resources for the SCAR Expert Group on Antarctic Biodiversity Informatic
 
 ## Talks
 
-2021 EGABI Information session (online)
-
-https://scar.github.io/EGABI/talks/info-talk-2021/egabi-info-slides.pdf
+2021 EGABI Information session (held online) &mdash; [slides](https://scar.github.io/EGABI/talks/info-talk-2021/egabi-info-slides.pdf)
 
 ---
 
