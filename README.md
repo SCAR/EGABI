@@ -10,5 +10,5 @@ Various resources for the SCAR Expert Group on Antarctic Biodiversity Informatic
 
 <div style="width:30%; margin-left:auto; margin-right:auto;">
 <img align="left" style="width:40%;" src="https://avatars1.githubusercontent.com/u/22830629?s=200&v=4" alt="SCAR logo" />
-<img align="right" style="width:55%;" src="https://raw.githubusercontent.com/SCAR/EGABI/images/EGABI_logo.png" alt="EGABI logo" />
+<img align="right" style="width:55%;" src="https://raw.githubusercontent.com/SCAR/EGABI/main/images/EGABI_logo.png" alt="EGABI logo" />
 </div>
